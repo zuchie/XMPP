@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import XMPPFramework
 
 class ViewController: UIViewController {
 
